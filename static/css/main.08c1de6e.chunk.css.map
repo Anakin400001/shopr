@@ -1,0 +1,1 @@
+{"version":3,"sources":["Persik.css"],"names":[],"mappings":"AAAA,QACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF,CAEA,QACE,cAAe,CACf,eACF","file":"main.08c1de6e.chunk.css","sourcesContent":[".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n\n.skypka {\n  font-size: 20px;\n  font-weight: bold;\n}"]}
